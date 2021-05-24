@@ -1,12 +1,12 @@
-Package: twelvedays
-Title: Sing the 12 Days of Christmas
+Package: lab7-pack 
+Title: Functions for lab 7
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Kelly",
-           family = "Bodwin",
+    person(given = "David",
+           family = "Splane",
            role = c("aut", "cre"),
-           email = "kelly@bodwin.us")
-Description: This is a practice package for coursework.
+           email = "dsplane@calpoly.edu")
+Description: This is a package for challenge 2.
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
